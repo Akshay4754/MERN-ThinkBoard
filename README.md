@@ -1,8 +1,8 @@
 <div align="center">
 
-#  MERN ThinkBoard 🧠📝 
+# ThinkBoard 🧠📝 
 
-### Full-Stack MERN Notes Application
+### Organised Notes Application App
 
 A **production-ready app** built with the **MERN stack**  
 focused on clean architecture, scalability, and modern UI.
@@ -24,7 +24,7 @@ focused on clean architecture, scalability, and modern UI.
 
 ## ✨ Features
 
-- 🗒️ **Notes Management** —  Organise notes Seamlessly in One place
+- 🗒️ **Notes Management** —  Create/Delete/Update/Organise notes Seamlessly in One place
 - ⚛️ **Modern Frontend** — React + Vite with TailwindCSS & DaisyUI  
 - 🔗 **Split Architecture** — Independent frontend & backend  
 - ☁️ **Cloud Database** — MongoDB Atlas  
